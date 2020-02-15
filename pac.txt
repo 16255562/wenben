@@ -435,6 +435,7 @@ var __RULES__ = [
   "||kucoin.com",
   "||lbank.info",
   "||livecoin.net",
+  "||github.com",
   "||localbitcoins.com",
   "||mercatox.com",
   "||oex.com",
