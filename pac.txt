@@ -243,6 +243,7 @@ var __RULES__ = [
   "||artstation.com",
   "||bangdream.space",
   "||behance.net",
+  "||github.com",
   "||bird.so",
   "||zh.bitterwinter.org",
   "||bnn.co",
