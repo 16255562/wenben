@@ -18,6 +18,7 @@ var __RULES__ = [
   "||bash-hackers.org",
   "||beeg.com",
   "||global.bing.com",
+  "||tradingview.com",
   "||bloombergview.com",
   "||booktopia.com.au",
   "||boysmaster.com",
