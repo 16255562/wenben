@@ -95,7 +95,7 @@ var __RULES__ = [
   "|http://imgmega.com/*.gif.html",
   "|http://imgmega.com/*.jpg.html",
   "|http://imgmega.com/*.jpeg.html",
-  "|http://imgmega.com/*.png.html",
+  "|https://ftx.com/",
   "||imlive.com",
   "||tw.iqiyi.com",
   "||javhub.net",
