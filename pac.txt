@@ -30,6 +30,7 @@ var __RULES__ = [
   "||chobit.cc",
   "||clearsurance.com",
   "||images.comico.tw",
+  "||ftx.com",
   "||static.comico.tw",
   "||counter.social",
   "||costco.com",
