@@ -254,6 +254,7 @@ var __RULES__ = [
   "||bwgyhw.com",
   "||castbox.fm",
   "||chinatimes.com",
+  "||666clouds.com",
   "||clyp.it",
   "||cmcn.org",
   "||cmx.im",
